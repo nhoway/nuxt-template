@@ -121,4 +121,5 @@ export default defineNuxtConfig({
   },
 
   modules: ['@vueuse/nuxt', '@nuxtjs/device', '@pinia/nuxt'],
+  compatibilityDate: '2024-11-23',
 })
